@@ -1,0 +1,24 @@
+{
+  "name": "markdown-language-translator",
+  "version": "0.0.1",
+  "description": "markdown language translator",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jack-X-Yang/markdown-language-translator.git"
+  },
+  "keywords": [
+    "markdown",
+    "language",
+    "translator"
+  ],
+  "author": "Jack-X-Yang",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Jack-X-Yang/markdown-language-translator/issues"
+  },
+  "homepage": "https://github.com/Jack-X-Yang/markdown-language-translator#readme"
+}
